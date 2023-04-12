@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../html5up-future-imperfect/assets"
+		},
+		{
+			"path": "../html5up-future-imperfect/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
